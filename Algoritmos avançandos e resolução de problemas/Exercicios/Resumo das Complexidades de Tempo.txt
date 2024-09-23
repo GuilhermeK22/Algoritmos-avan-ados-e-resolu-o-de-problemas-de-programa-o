@@ -1,0 +1,8 @@
+Resumo das Complexidades de Tempo
+•  Recursiva Simples: O(2^n)
+
+•  Top-Down (Memorização): O(n)
+
+•  Bottom-Up (Iterativa): O(n)
+
+As abordagens de programação dinâmica (top-down e bottom-up) são muito mais eficientes em termos de tempo em comparação com a abordagem recursiva simples, especialmente para valores grandes de n.
